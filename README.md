@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shova24
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Node JS
+- 👋 Hi, I’m Shova
+- 👀 I’m interested in Software Development Engineering
+- 🌱 I’m currently learning NodeJS
 
 
 <!---
